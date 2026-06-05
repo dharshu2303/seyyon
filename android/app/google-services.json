@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503660530255",
+    "project_id": "seyyon-80ec7",
+    "storage_bucket": "seyyon-80ec7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503660530255:android:b0638712c363eba131383a",
+        "android_client_info": {
+          "package_name": "com.seyyon.safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFINQZdQz9qD6HpiLKf-2HzoRgbTqPKkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
